@@ -46,7 +46,7 @@ True,2006.0,2006.0,1.0,GPLK_NA_1978,XLPE,False,Onbekend,Kabeldon,Kabeldon,"Bebou
 False,2002.0,2002.0,16.0,GPLK_VOOR_1978,GPLK_VOOR_1978,True,Overig,Overig,Overig,Zware klei,0,-0.5
 False,2007.0,2007.0,11.0,GPLK_NA_1978,GPLK_NA_1978,True,Onbekend,Kunststofmof,Krimpmof,"Bebouwing, enz",1,-2.0
 True,1998.0,1998.0,9.0,GPLK_NA_1978,GPLK_NA_1978,True,Onbekend,Gietharsmof,Gietharsmof,Zware klei,1,-1.5
-False,1931.0,1931.0,87.0,GPLK_VOOR_1978,GPLK_VOOR_1978,True,Onbekend,Massamof,Massamof,Zand,0,-1.0
+False,1831.0,1931.0,187.0,GPLK_VOOR_1978,GPLK_VOOR_1978,True,Onbekend,Massamof,Massamof,Zand,0,-1.0
 False,2011.0,2011.0,7.0,,,False,Krimpmof Raychem,Krimpmof,Krimpmof,Zand,0,-2.0
 False,2007.0,2007.0,11.0,GPLK_NA_1978,XLPE,False,Onbekend,Kunststofmof,Krimpmof,"Bebouwing, enz",1,-2.0
 False,2012.0,2012.0,6.0,,GPLK_NA_1978,False,Krimpmof,Krimpmof,Krimpmof,"Bebouwing, enz",1,0.0
@@ -126,7 +126,7 @@ True,2012.0,2012.0,1.0,,,False,Krimpmof Raychem,Krimpmof,Krimpmof,"Bebouwing, en
 True,1998.0,1998.0,18.0,,GPLK_NA_1978,False,Gietharsmof,Gietharsmof,Gietharsmof,Lichte klei,0,-2.49999999
 False,1989.0,1989.0,29.0,GPLK_NA_1978,GPLK_NA_1978,True,Oliemof,Oliemof,Oliemof,Veen,1,0.49999999
 False,2015.0,2015.0,3.0,GPLK_VOOR_1978,GPLK_VOOR_1978,True,Krimpmof Raychem,Krimpmof,Krimpmof,"Bebouwing, enz",1,-1.5
-False,1967.0,,51.0,GPLK_VOOR_1978,GPLK_VOOR_1978,True,Onbekend,Oliemof,Oliemof,Zand,0,-1.0
+False,1867.0,,151.0,GPLK_VOOR_1978,GPLK_VOOR_1978,True,Onbekend,Oliemof,Oliemof,Zand,0,-1.0
 False,1969.0,,49.0,,GPLK_VOOR_1978,False,Onbekend,Onbekend,Onbekend,Lichte klei,0,-4.99999999
 True,2006.0,2006.0,6.0,,XLPE,False,Krimpmof Raychem,Krimpmof,Krimpmof,Zware zavel,0,-3.0
 False,2016.0,2016.0,2.0,,XLPE,False,Krimpmof Overig,Krimpmof,Krimpmof,"Bebouwing, enz",0,-0.5
@@ -193,7 +193,7 @@ False,1998.0,1998.0,20.0,XLPE,XLPE,True,Kunststofmof ABB,Kunststofmof,Krimpmof,L
 False,1968.0,1968.0,50.0,GPLK_VOOR_1978,GPLK_VOOR_1978,True,Oliemof,Oliemof,Oliemof,"Bebouwing, enz",0,-2.99999999
 False,1969.0,,49.0,GPLK_VOOR_1978,GPLK_VOOR_1978,True,Onbekend,Onbekend,Onbekend,"Bebouwing, enz",1,-1.0
 False,1998.0,1998.0,20.0,GPLK_NA_1978,GPLK_NA_1978,True,Kabeldon,Kabeldon,Kabeldon,Lichte zavel,0,-0.5
-False,1938.0,,80.0,GPLK_VOOR_1978,GPLK_VOOR_1978,True,Onbekend,Massamof,Massamof,Zand,0,-2.49999999
+False,1838.0,,180.0,GPLK_VOOR_1978,GPLK_VOOR_1978,True,Onbekend,Massamof,Massamof,Zand,0,-2.49999999
 False,2015.0,2015.0,3.0,,XLPE,False,Kunststofmof Raychem,Kunststofmof,Krimpmof,"Bebouwing, enz",1,-2.99999999
 True,1993.0,1993.0,14.0,GPLK_NA_1978,GPLK_NA_1978,True,Oliemof,Oliemof,Oliemof,Lichte zavel,0,-2.0
 False,1973.0,,45.0,GPLK_VOOR_1978,GPLK_VOOR_1978,True,Onbekend,Oliemof,Oliemof,Zand,0,-0.5
@@ -733,7 +733,7 @@ False,2015.0,2015.0,3.0,,XLPE,False,Kunststofmof Raychem,Kunststofmof,Krimpmof,"
 False,1949.0,,69.0,GPLK_VOOR_1978,GPLK_VOOR_1978,True,Oliemof,Oliemof,Oliemof,"Bebouwing, enz",0,-1.5
 False,2012.0,2012.0,6.0,XLPE,GPLK_VOOR_1978,False,Krimpmof Cellpack,Krimpmof,Krimpmof,"Bebouwing, enz",1,-2.5
 True,1982.0,1982.0,29.0,,GPLK_NA_1978,False,Kabeldon,Kabeldon,Kabeldon,Zand,0,-3.0
-False,1965.0,,53.0,GPLK_VOOR_1978,GPLK_VOOR_1978,True,Onbekend,Onbekend,Onbekend,"Bebouwing, enz",0,-0.99999999
+False,1865.0,,153.0,GPLK_VOOR_1978,GPLK_VOOR_1978,True,Onbekend,Onbekend,Onbekend,"Bebouwing, enz",0,-0.99999999
 True,1976.0,1976.0,37.0,GPLK_VOOR_1978,,False,Nekaldietmof,Nekaldietmof,Nekaldietmof,"Bebouwing, enz",0,-2.0
 False,1979.0,1979.0,39.0,GPLK_NA_1978,GPLK_VOOR_1978,False,Onbekend,Oliemof,Oliemof,Zand,0,-0.49999999
 False,1961.0,1961.0,57.0,GPLK_VOOR_1978,GPLK_VOOR_1978,True,Onbekend,Oliemof,Oliemof,Zand,0,0.5
