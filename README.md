@@ -1,12 +1,13 @@
-# InHouseRU2023
-Repo Containing 'Failing CableConnections'
+# Data Science Workshop: Predict Failing Cable Connection
 
-Let's try to predict which cable connections ('Moffen') are most likely to fail. This can be used to perform *preventive maintainance*.
+### What is this workshop about?
+Let's try to predict which cable connections ('Moffen') are most likely to fail. 
+This can be used to perform *preventive maintainance*.
 
-![Aanleiding](aanleiding.png)
+In this hands-on workshop you will experience all facets of a Data Science project: from dataset to model.
+The workshop is fully contained in a jupyter notebook and (reference) solutions are included in a seperate notebook.  
+The dataset in this workshop is a dummy and is meant for learning purposes. 
 
-
-
-Related repositories:
-https://github.com/Alliander/rnd-ai-workshop
-https://github.com/Alliander/AI-workshop
+### How to install
+Install the nessecary python packages and you are good to go:
+`pip install -r requirements.txt`
