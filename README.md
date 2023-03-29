@@ -1,7 +1,7 @@
-# Data Science Workshop: Predict Failing Cable Connection
+# Data Science Workshop: Predict Failing Cable Joints
 
 ### What is this workshop about?
-Let's try to predict which cable connections ('Moffen') are most likely to fail. 
+Let's try to predict which cable joints ('Moffen') are most likely to fail. 
 This can be used to perform *preventive maintainance*.
 
 In this hands-on workshop you will experience all facets of a Data Science project: from dataset to model.
